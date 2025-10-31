@@ -1,5 +1,5 @@
 # Ex05 Image Carousel
-# NAME : sri hari r
+# NAME : Sri hari r
 # REG NO:212223040202
 ## AIM
 To create a Image Carousel using React 
@@ -128,9 +128,9 @@ function App() {
 export default App;
 ```
 ## OUTPUT
-![Yo mama023_787201](https://github.com/user-attachments/assets/2c078587-b1dc-4565-a811-8a20f6c49eaa)
+<img width="1409" height="568" alt="440090591-a8a43f7a-ac29-4993-8ce5-f27c4ce1ae60" src="https://github.com/user-attachments/assets/39c948bb-adbe-4ed4-923e-deec88db594e" />
 
-![download (4)](https://github.com/user-attachments/assets/b4c543e8-2a2f-4534-80e8-cce47ff5575b)
+<img width="1408" height="648" alt="440090593-29ac0fbf-3575-4057-b496-d649f534a82a" src="https://github.com/user-attachments/assets/b61a3ae9-3b25-45fe-9f16-6b17a438f7c9" />
 
 ## RESULT
 The program for creating Image Carousel using React is executed successfully.
